@@ -1,0 +1,15 @@
+my_blockchain Blockchain()
+
+Renanbah Beberapa sink baru ke dolu blockchain
+
+my_blockchain.add_block(Block(time.time(), "Transaksi 1"))
+
+my_blockchain.add block(Block(2, "", time.time(), "Transaksi 2")) my_blockchain.add_block(Block(,, time.time(), "Transaksi 3"))
+
+Cetak sriurus blee al dalam blockchain
+
+for block in my blockchain.chaint print(block)
+
+Memeriksa apshah blockchain salid
+
+print("Apakah blockchain valid (my_blockchain.is_chain_valid())")
